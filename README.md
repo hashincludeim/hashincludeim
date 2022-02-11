@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hashincludeim, a software developer looking to be big in the FinTech industry
+- 👋 Hi, I’m @hashincludeim, a software developer looking get in the FinTech industry
 - 👀 I’m interested in machine learning algorithms 
 - 🌱 I’m currently learning blockchain tecnhology
 - 📫 Reach me on Twitter: @hashimmsalim
